@@ -1,4 +1,4 @@
-# Pathfinding Algorithms 
+# Covid 19 case study
 
 ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -7,10 +7,7 @@
 
 Author: [Andrew Gyakobo](https://github.com/Gyakobo)
 
-# Covid-19 case-by-case study
-
 https://github.com/user-attachments/assets/617cf83f-d8c9-4cba-b72a-4892b3620803
-
 
 ## Introduction
 
