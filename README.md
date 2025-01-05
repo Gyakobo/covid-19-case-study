@@ -22,25 +22,41 @@ The project performs data analysis and machine learning modeling using a Covid-1
 
 2. Task 2: Linear Regression Model
 
-Goal: Predict hospitalization counts.
-Steps:
-Preprocessing:
-Features selected include month, case count, and death count.
-One-hot encoding for the month feature.
-Split data into training and testing sets.
-Trained a Linear Regression model.
-Evaluation:
-Measured model performance using:
-Mean Squared Error (MSE)
-R² score
-Visualized predictions against actual hospitalization counts using scatter and line plots.
-Task 3: Logistic Regression for Classification
+    * Goal: Predict hospitalization counts.
+    * Steps:
+        * Preprocessing:
+            * Features selected include month, case count, and death count.
+            * One-hot encoding for the month feature.
+        * Split data into training and testing sets.
+        * Trained a Linear Regression model.
+    * Evaluation:
+        * Measured model performance using:
+            * Mean Squared Error (MSE)
+            * R² score
+        * Visualized predictions against actual hospitalization counts using scatter and line plots.
 
-Goal: Classify hospitalizations as "high" or "low" based on a defined threshold.
-Steps:
-Thresholding on hospitalization counts (e.g., 60th percentile).
-Trained a Logistic Regression model.
-Evaluation:
-Accuracy score and classification report (precision, recall, f1-score).
-Confusion matrix visualized using a heatmap.
+3. Task 3: Logistic Regression for Classification
 
+    * Goal: Classify hospitalizations as "high" or "low" based on a defined threshold.
+    * Steps:
+        * Thresholding on hospitalization counts (e.g., 60th percentile).
+        * Trained a Logistic Regression model.
+
+    * Evaluation:
+        * Accuracy score and classification report (precision, recall, f1-score).
+        * Confusion matrix visualized using a heatmap.
+
+## Key Results:
+
+* Linear Regression:
+    * Provided a good fit with R² ~ 0.77 and a clear relationship between the features and hospitalizations.
+* Logistic Regression:
+    * Achieved an accuracy of 85.5%, effectively classifying "high" and "low" hospitalizations.
+    * Confusion matrix shows a balanced prediction performance.
+
+## Subtle Description
+
+This project efficiently combines exploratory data analysis and machine learning to analyze and predict Covid-19 hospitalization trends. By leveraging statistical models like linear regression for prediction and logistic regression for classification, it provides insights into the relationships between case counts, deaths, and hospitalizations. The clean visualizations, such as time-series plots, histograms, and confusion matrices, make the findings intuitive and actionable.
+
+## License:
+MIT
