@@ -1,3 +1,12 @@
+# Pathfinding Algorithms 
+
+![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![image](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)
+![image](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)
+
+Author: [Andrew Gyakobo](https://github.com/Gyakobo)
+
 # Covid-19 case-by-case study
 
 https://github.com/user-attachments/assets/617cf83f-d8c9-4cba-b72a-4892b3620803
